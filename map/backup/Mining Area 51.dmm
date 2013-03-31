@@ -1,0 +1,106 @@
+"a" = (/turf/aboveground/surface,/area)
+"b" = (/mob/human,/turf/aboveground/surface,/area)
+"c" = (/turf/stare_up,/area)
+"d" = (/obj/rocks/generic_rock,/turf/aboveground/surface,/area)
+"e" = (/turf/underground/earth,/area)
+"f" = (/turf/stare_down,/area)
+"g" = (/turf,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaabaaacaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaadacaaaaaaaaaaaaaacaaaaaaaaa
+aadadaaaaaaaaaaaaaaaaaaaaaaaaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+"}
+
+(1,1,2) = {"
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaafaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeaaaaaaaaaaaaaaaaaaaaaaaaeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+"}
+
+(1,1,3) = {"
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+gggggggggggggggggggggggggggeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+"}

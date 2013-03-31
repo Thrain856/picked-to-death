@@ -1,0 +1,27 @@
+I created this simplistic version of a dev log so that we can communicate 
+what we are doing easier. It is very simple however so text doesn't 
+align itself, which means you have to limit yourself when typing into it.
+I also strongly suggest that you add text at the top  of the file rather
+than the bottom, mainly so that it's easy to see what was added. 
+
+I messed with the login stuff a bit, changed the enter game confirmation 
+to an alert window with a yes no button. Added this dev log, started work
+on making the name and gender display in the start window, there needs
+to be a way to refresh the window after each button is clicked. 
+
+A possible suggestion: make this entire process be inside of a proc that 
+is called in the Login() code. 
+
+mob/human
+	Login() 
+		Proc_call_of_login_code() 
+		..()
+
+proc/Proc_call_of_login_code()
+	[your existing login code] 
+
+This may make it easier to update the screen and what not, and should make 
+it possible to view the login screen at other times than just when you are
+about to bind yourself to a human, there may be times when you want to 
+access the name changing/gender changing abilities without having to become 
+an active player. 
